@@ -1,6 +1,5 @@
-import React, { useEffect, useState, useRef, useCallback } from 'react';
+import React, { useEffect, useState, useRef } from 'react';
 import { Link } from 'react-router-dom';
-import { productAPI, categoryAPI } from '../services/api';
 import ProductCard from '../components/product/ProductCard';
 import { SkeletonGrid } from '../components/common/Skeleton';
 import useSWR from 'swr';
