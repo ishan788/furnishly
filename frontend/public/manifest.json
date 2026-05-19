@@ -1,0 +1,9 @@
+{
+  "short_name": "Furnishly",
+  "name": "Furnishly — Premium Furniture",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1a1a18",
+  "background_color": "#fafaf8"
+}
